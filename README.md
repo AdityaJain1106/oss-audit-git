@@ -1,4 +1,4 @@
-````md
+
 # Open Source Software Audit — Git
 
 ## 👨‍🎓 Student Details
@@ -146,40 +146,3 @@ This project is created for academic purposes as part of the OSS course.
 This project highlights how open-source tools like Git are not just software, but part of a collaborative ecosystem that promotes transparency, learning, and innovation.
 
 ---
-
-````
-
----
-
-# 🔥 Important (Do this before uploading)
-Replace:
-```bash
-your-username
-rollnumber
-````
-
-Example:
-
-```bash
-oss-audit-22BCS123
-```
-
----
-
-# ✅ You are now almost DONE
-
-You now have:
-
-* ✔ All 5 scripts
-* ✔ Report content
-* ✔ README
-
----
-
-# 🚀 Final step
-
-1. Create GitHub repo
-2. Upload `.sh` files + README
-3. Generate report PDF
-4. Submit
-
